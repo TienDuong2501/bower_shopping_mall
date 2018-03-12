@@ -1,0 +1,17 @@
+{
+  "name": "bower_shopping_mall",
+  "version": "1.0.1",
+  "authors": [
+    "DuongNT <tienduong250196@gmail.com>"
+  ],
+  "description": "Framgia standard demo Bower",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/TienDuong2501/bower_shopping_mall.git",
+  "ignore": [
+    "README.md"
+  ]
+}
